@@ -22,10 +22,6 @@ This project fetches data from:
 
 https://jsonplaceholder.typicode.com/photos
 
-📸 Screenshots
-
-(Attach relevant screenshots of the app UI)
-
 👨‍💻 Technologies Used
 
 Swift 5
