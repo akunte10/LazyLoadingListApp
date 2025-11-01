@@ -24,15 +24,15 @@ https://jsonplaceholder.typicode.com/photos
 
 👨‍💻 Technologies Used
 
-Swift 5
+- Swift 5
 
-SwiftUI
+- SwiftUI
 
-Combine Framework
+- Combine Framework
 
-URLSession
+- URLSession
 
-NSCache for caching
+- NSCache for caching
 
 🤝 Contributing
 
